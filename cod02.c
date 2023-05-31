@@ -1,5 +1,5 @@
-/*Programa onde o usuário digite dois numeros e o programa fara a contagem, o usuário 
-também pode escolher o valor do salto entre os numeros*/
+/*Programa onde o usuário digita dois numeros e o programa faz a contagem, o usuário 
+também pode escolher o valor do incremento entre os numeros*/
 
 #include <stdio.h>
 
