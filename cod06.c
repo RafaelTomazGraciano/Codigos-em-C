@@ -7,4 +7,10 @@
            Soma dos pares
            Soma dos ímpares */
 
-#include
+#include <stdio.h>
+
+int main()
+{
+  
+  return 0;
+}
