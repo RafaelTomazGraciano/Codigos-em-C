@@ -1,4 +1,4 @@
-/*Programa para calcular as caloria de uma alimento*/
+/*Programa para calcular as calorias de uma alimento*/
 
 #include <stdio.h>
 
