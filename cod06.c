@@ -17,5 +17,4 @@ int main()
   scanf("%f", &gramas);
   printf("O valor em calorias do alimento e %.2f", (((carboidratos*4)+(proteinas*4)+(lipidios*9))*gramas)/porcao);
   return 0;
-  
 }
