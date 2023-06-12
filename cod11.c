@@ -11,8 +11,8 @@ e) Quantas mulheres tem menos de 18 anos*/
 
 int main()
 {
-  float media = 0;
-  int idade, maisVelho = 0, maisJovem = 100, soma = 0, i = 1, homensMais30 = 0, mulheresMenor18 = 0;
+  float media = 0, soma = 0, i = 1;
+  int idade, maisVelho = 0, maisJovem = 100, homensMais30 = 0, mulheresMenor18 = 0;
   char nome[20], nomeVelho[20], nomeJovem[20], sexo, resposta = 'S';
   while(resposta == 'S' || resposta == 's'){
     printf("Digite o nome da pessoa: ");
